@@ -23,9 +23,6 @@ env/
 # Uncomment if you don't want to track model weights
 # model.pth
 
-# Data (usually too large for git)
-dataset_split/*/
-
 # Streamlit
 .streamlit/
 
